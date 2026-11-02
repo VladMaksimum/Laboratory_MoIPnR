@@ -3,3 +3,5 @@ mnist
 cifar
 Cat_Dog_data
 __MACOSX
+data
+lightning_logs
