@@ -6,3 +6,8 @@ __MACOSX
 data
 lightning_logs
 PetImages
+imagenet-mini
+train
+train_masks
+imagenet1000_clsidx_to_labels.txt
+PennFudanPed
